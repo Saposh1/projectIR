@@ -89,6 +89,7 @@ class InvertedIndex:
     # the number of bytes from the beginning of the file where the posting list
     # starts. 
     self.posting_locs = defaultdict(list)
+    self.DL={}
     
     for doc_id, tokens in docs.items():
       self.add_doc(doc_id, tokens)
