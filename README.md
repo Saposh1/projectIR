@@ -1,5 +1,4 @@
 # $\color{lightblue}{Wikipedia\ IR\ Engine}$
-
 <p align="center">
   <img width="250" height="250" src="https://upload.wikimedia.org/wikipedia/commons/9/98/New-Bouncywikilogo.gif?20220824134145">
 </p>
