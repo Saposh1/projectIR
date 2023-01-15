@@ -1,6 +1,6 @@
 # $\color{lightblue}{Wikipedia\ IR\ Engine}$
 <p align="center">
-  <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WikiColor.gif">
+  <img width="250" height="250" src="https://upload.wikimedia.org/wikipedia/commons/9/98/New-Bouncywikilogo.gif?20220824134145">
 </p>
 
 $\color{purple}{In\ the\ following\ project,\ we\ created\ a\ retrieval\ engine\ that\ is\ working\ on\ the\ english\ wikipedia\ updated\ to\ august\ 2021.}$
