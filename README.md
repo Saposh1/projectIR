@@ -1,8 +1,12 @@
 # $\color{lightblue}{Wikipedia\ IR\ Engine}$
-![](https://upload.wikimedia.org/wikipedia/commons/e/ed/WikiColor.gif)<br />
+<p align="center">
+  <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/WikiColor.gif">
+</p>
 
 $\color{purple}{In\ the\ following\ project,\ we\ created\ a\ retrieval\ engine\ that\ is\ working\ on\ the\ english\ wikipedia\ updated\ to\ august\ 2021.}$
 $\color{purple}{The\ main\ propose\ of\ the\ project\ -\ maximize\ the\ map@40\ of\ our\ predicted\ results.}$
+$\color{purple}{In\ order\ to\ do\ so,\ we\ used\ weighted\ bm25\ algorithm\ and\ weighted\ titles\ of\ the\ wikipedia\ pages.}$
+$\color{purple}{In\ addition,\ we\ added\ page\ rank\ score\ to\ each\ candidate\ document\ in\ order\ to\ boost\ relevant\ docs\ only.}$
 
 $\color{purple}{Attached\ files\ description:}$<br />
 $\color{orange}{createdInvertedIndexGCP.ipynb\ -\ This\ jupyter\ notebook\ was\ used\ to\ create\ the\ inverted\ indexes.\ }$<br />
